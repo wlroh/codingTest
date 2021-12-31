@@ -5,8 +5,6 @@ public class Traffic {
 
     public static void main(String[] args) {
 
-        // 21:22 start  21:48  ==> 26분
-
         TrafficSolution solution = new TrafficSolution();
 
         int result1 = solution.solution(new String[]{"2016-09-15 00:00:00.000 3s"});
@@ -19,8 +17,7 @@ public class Traffic {
             throw new Error("failed test#2 || expected: 1, actual: " + result2);
         }
 
-//        int result3 = solution.solution(new String[]{"2016-09-15 01:00:04.001 2.0s", "2016-09-15 01:00:07.000 2s"});
-        int result3 = solution.solution(new String[]{"2016-09-15 01:00:04.001 2.234s", "2016-09-15 01:00:07.000 2s"});
+        int result3 = solution.solution(new String[]{"2016-09-15 01:00:04.001 2.0s", "2016-09-15 01:00:07.000 2s"});
         if(result3 != 1) {
             throw new Error("failed test#3 || expected: 1, actual: " + result3);
         }
