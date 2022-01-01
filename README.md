@@ -13,5 +13,6 @@
      - [2021 KAKAO BLIND RECRUITMENT 신규 아이디 추천](https://github.com/wlroh/codingTest/tree/master/src/practice/recommendnewid)
    - Level 2
      - [2020 KAKAO BLIND RECRUITMENT 문자열 압축](https://github.com/wlroh/codingTest/tree/master/src/practice/compression)
+     - [2019 KAKAO BLIND RECRUITMENT 오픈채팅방](https://github.com/wlroh/codingTest/tree/master/src/practice/openchat)
    - Level 3
      - [2018 KAKAO BLIND RECRUITMENT 추석 트래픽](https://github.com/wlroh/codingTest/tree/master/src/practice/traffic)
